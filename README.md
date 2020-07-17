@@ -3,7 +3,7 @@ Wlacz/WylaczaMody
 
 
 Sciaganac, zedytowac zaznaczone linie ( 16 i 35 )
-zkompilowac.
+kompilowac.
 
 
 W folderze ze skompilowanym exe umiescic 2 pliki ini
