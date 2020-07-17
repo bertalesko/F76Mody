@@ -3,6 +3,8 @@ Wlacz/WylaczaMody
 
 
 Sciaganac, kompilowac, wrzucic pliki ini, odpalac i uzywac.
+LUB
+sciagnac Release.rar, wrzucic pliki ini, odpalac i uzywac.
 
 
 W folderze ze zkompilowanym exe umiescic 3 pliki ini
