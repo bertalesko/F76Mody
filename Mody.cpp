@@ -132,8 +132,8 @@ int main()
 
 	okno = FindWindowA(0, (LPCSTR)(nazwaOkna)); // nazwa okna
 
-	cout << "1. Wylacz mody" << endl;
-	cout << "2. Wlacz mody" << endl;
+	cout << "Shift + 1. Wylacz mody" << endl;
+	cout << "Shift + 2. Wlacz mody" << endl;
 	cout << "END. aby zakonczyc" << endl;
 	if (sprawdz(okno, nazwaOkna))
 	{
