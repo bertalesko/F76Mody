@@ -142,4 +142,5 @@ int main()
 	}
 	cout << "Wylaczam" << endl;
 	cin.get();
+	return 0;
 }
