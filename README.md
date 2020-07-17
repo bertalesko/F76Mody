@@ -2,13 +2,13 @@
 Wlacz/WylaczaMody
 
 
-Sciaganac, zedytowac zaznaczone linie ( 16 i 35 )
-kompilowac.
+Sciaganac, kompilowac, wrzucic pliki ini, odpalac i uzywac.
 
 
-W folderze ze zkompilowanym exe umiescic 2 pliki ini
+W folderze ze zkompilowanym exe umiescic 3 pliki ini
 1) mody.ini - wasz Fallout76Custom.ini z modami
 2) czysty.ini - wasz Fallout76Custom.ini bez modow
+3) myfile.ini - plik z lokacja gry, zeby nie trzeba bylo sie meczyc z edytowaniem zrodla
 
 
 Wlaczyc zkompilowana aplikacje
