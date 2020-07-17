@@ -15,6 +15,7 @@ Wlaczyc skompilowana aplikacje
 
 1. Wylacz mody
 2. Wlacz mody
+
 END. aby zakonczyc
 
 
