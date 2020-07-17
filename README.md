@@ -13,8 +13,8 @@ W folderze ze zkompilowanym exe umiescic 3 pliki ini
 
 Wlaczyc zkompilowana aplikacje
 
-1. Wylacz mody
-2. Wlacz mody
+Shift + 1. Wylacz mody
+Shift + 2. Wlacz mody
 
 END. aby zakonczyc
 
